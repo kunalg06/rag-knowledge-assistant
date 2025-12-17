@@ -32,9 +32,9 @@ Goal: build a system that can retrieve relevant chunks and generate grounded ans
 - `requirements.txt` installed
 
 ### Installation
-git clone https://github.com/kunalg06/rag-knowledge-assistant.git
-cd rag-knowledge-assistant
-pip install -r requirements.txt
+- git clone https://github.com/kunalg06/rag-knowledge-assistant.git
+- cd rag-knowledge-assistant
+- pip install -r requirements.txt
 
 
 ### Configuration
