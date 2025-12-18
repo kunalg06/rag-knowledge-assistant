@@ -6,3 +6,6 @@ pydantic
 fastapi 
 uvicorn 
 python-dotenv
+langchain-community 
+langchain-core
+fastapi[standard]
